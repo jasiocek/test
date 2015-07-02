@@ -1,2 +1,2 @@
-# Pierwszy user zmienił napis test na ten tekst
+# Pierwszy user zmienił napis a drugi zmienił jego
 Drugi user dodal zmiany do pliku
