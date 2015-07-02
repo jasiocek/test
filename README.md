@@ -1,2 +1,1 @@
-# Pierwszy user zmienił napis a drugi zmienił jego
-Drugi user dodal zmiany do pliku
+# Drugi user wszystko wywalil i chce zmergowac swoj branch
